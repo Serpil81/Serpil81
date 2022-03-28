@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Serpil and i am just codding.
+My name is Serpil. I am Electronics Engineer also educated on computer scince and just codding now.
 
 - 🔭 I’m currently working on Car Rental Project on Kodlama.io
 - 🌱 I’m currently learning Backend, C#
