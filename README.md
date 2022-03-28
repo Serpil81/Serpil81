@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**Serpil81/Serpil81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Serpil and i am just coding.
 
 - 🔭 I’m currently working on Car Rental Project on Kodlama.io
