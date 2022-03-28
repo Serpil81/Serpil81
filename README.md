@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Serpil and i am just coding.
+My name is Serpil and i am just codding.
 
 - 🔭 I’m currently working on Car Rental Project on Kodlama.io
 - 🌱 I’m currently learning Backend, C#
