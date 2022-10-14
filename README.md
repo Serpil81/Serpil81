@@ -6,3 +6,8 @@
 - 🌱 I’m currently learning Backend, C#
 - 💬 Ask me about codding
 
+<br></br>
+![](https://komarev.com/ghpvc/?username=SerpilTY&style=flat&label=Visits)
+<br></br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerpilTY)
+<img src="https://github-readme-stats.vercel.app/api?username=SerpilTY" />
